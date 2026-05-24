@@ -8,6 +8,9 @@ purchasing behavior using RFM analysis, K-Means, and Hierarchical Clustering.
 ## Dataset
 Online retail transaction data containing invoices, products, quantities, 
 prices, and customer IDs.
+Download the dataset from Kaggle:
+https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci
+Place it in the root folder and rename it to `data.csv`
 
 ## How to Run
 1. Clone the repo
