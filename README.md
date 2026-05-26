@@ -27,3 +27,10 @@ Place it in the root folder and rename it to `data.csv`
 - Outlier treatment
 - DBSCAN clustering
 - Product Recommendation System
+
+## Progress
+- ✅ Phase 1: EDA, Cleaning, RFM Features, Outlier Treatment, 
+              Clustering, PCA Visualization, Cluster Profiling
+- 🔄 Phase 2: Modular src/ files (in progress)
+- ⏳ Phase 3: FastAPI Backend
+- ⏳ Phase 4: Dashboard
