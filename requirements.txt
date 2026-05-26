@@ -6,3 +6,15 @@ scipy
 scikit-learn
 mlxtend
 jupyter
+
+# API
+fastapi
+uvicorn[standard]
+joblib
+pydantic
+
+# Database (Phase 3 - storing customer data)
+sqlalchemy
+
+# Environment variables (API keys, config)
+python-dotenv
