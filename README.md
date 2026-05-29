@@ -12,7 +12,7 @@ Download the dataset from Kaggle:
 https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci
 Place it in the root folder and rename it to `data.csv`
 
-## How to Run
+## How to RUn
 1. Clone the repo
 2. Install dependencies: pip install -r requirements.txt
 3. Open the notebook: customer_behavior_segmentation.ipynb
@@ -25,7 +25,7 @@ Place it in the root folder and rename it to `data.csv`
 
 ## Future Work
 - Outlier treatment
-- DBSCAN clustering
+- DBSCAN clusterIng
 - Product Recommendation System
 
 ## Progress
