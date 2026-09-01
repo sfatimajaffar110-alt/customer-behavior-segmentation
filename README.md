@@ -31,6 +31,6 @@ Place it in the root folder and rename it to `data.csv`
 ## Progress
 - ✅ Phase 1: EDA, Cleaning, RFM Features, Outlier Treatment, 
               Clustering, PCA Visualization, Cluster Profiling
-- 🔄 Phase 2: Modular src/ files (in progress)
-- ⏳ Phase 3: FastAPI Backend
+- ✅Phase 2: Modular src/ files 
+- 🔄 Phase 3: FastAPI Backend  (in progress)
 - ⏳ Phase 4: Dashboard
